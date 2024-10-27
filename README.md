@@ -1,3 +1,4 @@
+![logo](https://github.com/Bhushanmali021/Bhushanmali/blob/main/IMG_20241027_224505.jpg)
 <h1 align="center">Hi 👋, I'm Bhushan Sunil Mali</h1>
 <h3 align="center">A passionate Data Engineer | Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://assets.zyrosite.com/Aq20eV79zLfpXV6b/data-science-2-mP4XPq0y3wUKory9.gif"
